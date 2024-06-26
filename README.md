@@ -32,5 +32,5 @@ I'm Gabriel from Brazil, and I am a front-end developer. I enjoy learning langua
   <img align="center" alt="gabs-ghub" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-![snake gif]()
+![snake gif](https://github.com/Gbrlbrgm/Gbrlbrgm/blob/output/github-contribution-grid-snake.svg)
 
