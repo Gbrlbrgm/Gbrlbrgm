@@ -22,8 +22,8 @@ I'm Gabriel from Brazil, and I am a front-end developer. I enjoy learning langua
 <div>
   <h2>Stats</h2>
   <a href="https://github.com/Gbrlbrgm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrlbrgm&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbrlbrgm&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrlbrgm&hide=html&layout=compact&theme=synthwave)]">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbrlbrgm&theme=synthwave)]">
 </div>
 
 <div>
