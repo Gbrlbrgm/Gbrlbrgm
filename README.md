@@ -1,6 +1,6 @@
 ### Hi there 👋, Gabriel Bergamo
 #### Front-End Developing
-![Banner]()
+![Banner](https://github.com/Gbrlbrgm/Gbrlbrgm/blob/main/banner.png)
 
 <h2>Hello!</h2> <br>
 I'm Gabriel from Brazil, and I am a front-end developer. I enjoy learning languages and frameworks, such as React, Angular and Vue, as well as work in .NET. I also have experience as a fullstack dev, using C# and ASP.NET Framework.
