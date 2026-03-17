@@ -1,16 +1,14 @@
-### Hi there 👋, Gabriel Bergamo
+# Hi there 👋, I'm Gabriel Bergamo
 
-#### Front-End Engineering
+## Front-End Engineer
 
-![Banner](https://github.com/Gbrlbrgm/Gbrlbrgm/blob/main/banner.png)
-
-# 💫 About Me:
-
-🔭 I’m currently focusing on technical excellence through personal projects, Data Structures & Algorithms (DSA), and deep-diving into JavaScript/TypeScript internals!<br>👯 I’m looking to contribute to Open Source projects and meaningful collaborations.<br>🌱 I’m currently learning NestJS to expand my expertise into scalable back-end architecture.
-
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-a-bergamo/)
+
+## 💫 About Me:
+
+🔭 I’m currently focusing on technical excellence through personal projects, Data Structures & Algorithms (DSA), and deep-diving into JavaScript/TypeScript internals!<br>👯 I’m looking to contribute to Open Source projects and meaningful collaborations.<br>🌱 I’m currently learning NestJS to expand my expertise into scalable back-end architecture.
 
 # ⚙️ Tech Stack:
 
