@@ -29,18 +29,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Gbrlbrgm&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gbrlbrgm&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrlbrgm&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Gbrlbrgm&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Gbrlbrgm&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gbrlbrgm/Gbrlbrgm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gbrlbrgm/Gbrlbrgm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Gbrlbrgm/Gbrlbrgm/output/github-snake.svg" />
-</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
