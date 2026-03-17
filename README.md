@@ -1,6 +1,5 @@
-# Hi there 👋, I'm Gabriel Bergamo
-
-## Front-End Engineer
+# Hi there 👋, I'm Gabriel Bergamo.
+### Frontend Engineer expanding into Fullstack
 
 ## 🌐 Socials
 
