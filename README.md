@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently focusing on technical excellence through personal projects, Data Structures & Algorithms (DSA), and deep-diving into JavaScript/TypeScript internals!<br>👯 I’m looking to contribute to Open Source projects and meaningful collaborations.<br>🌱 I’m currently learning NestJS to expand my expertise into scalable back-end architecture.
+🔭 I’m currently pivoting my focus to Ruby on Rails, transitioning from Next.js to leverage a framework built for high-velocity development and peak developer experience.<br>👯 I’m looking to contribute to Ruby Open Source and collaborate on projects that value clean, expressive code.<br>🌱 I’m currently mastering Ruby and the Rails ecosystem, applying my experience with TypeScript and API design to build more robust, productive back-end architectures.
 
 # ⚙️ Tech Stack:
 
